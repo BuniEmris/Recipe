@@ -1,0 +1,38 @@
+@import url("https://fonts.googleapis.com/css2?family=Arvo:ital@1&");
+.recipebox {
+  border-radius: 10px;
+  box-shadow: 0px 5px 20px rgb(71, 71, 71);
+  margin: 20px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  background: white;
+  align-items: center;
+  width: 30%;
+  height: 30%;
+}
+.image {
+  width: 200px;
+  height: 200px;
+  border-radius: 30%;
+  margin-bottom: 10px;
+}
+.title {
+  background-image: linear-gradient(-20deg, #e9defa 0%, #fbfcdb 100%);
+  color: blueviolet;
+  border-radius: 10px;
+  margin: 10px;
+}
+.text {
+  font-family: "Arvo", serif;
+  letter-spacing: 1px;
+  line-height: 30px;
+  margin-bottom: 10px;
+}
+
+.calories {
+  font-weight: bold;
+  color: yellow;
+  border-radius: 5px;
+  background-image: linear-gradient(45deg, #93a5cf 0%, #828884 100%);
+}
