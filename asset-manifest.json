@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/BuniEmris/Recipe.git/static/css/main.5c5f53da.chunk.css",
+    "main.js": "/BuniEmris/Recipe.git/static/js/main.8ba071ef.chunk.js",
+    "main.js.map": "/BuniEmris/Recipe.git/static/js/main.8ba071ef.chunk.js.map",
+    "runtime-main.js": "/BuniEmris/Recipe.git/static/js/runtime-main.0c280281.js",
+    "runtime-main.js.map": "/BuniEmris/Recipe.git/static/js/runtime-main.0c280281.js.map",
+    "static/js/2.33e35ca9.chunk.js": "/BuniEmris/Recipe.git/static/js/2.33e35ca9.chunk.js",
+    "static/js/2.33e35ca9.chunk.js.map": "/BuniEmris/Recipe.git/static/js/2.33e35ca9.chunk.js.map",
+    "index.html": "/BuniEmris/Recipe.git/index.html",
+    "precache-manifest.893f25e9c2bc7891599b54b247f33dd4.js": "/BuniEmris/Recipe.git/precache-manifest.893f25e9c2bc7891599b54b247f33dd4.js",
+    "service-worker.js": "/BuniEmris/Recipe.git/service-worker.js",
+    "static/css/main.5c5f53da.chunk.css.map": "/BuniEmris/Recipe.git/static/css/main.5c5f53da.chunk.css.map",
+    "static/js/2.33e35ca9.chunk.js.LICENSE.txt": "/BuniEmris/Recipe.git/static/js/2.33e35ca9.chunk.js.LICENSE.txt",
+    "static/media/logo1.png": "/BuniEmris/Recipe.git/static/media/logo1.c0a8671b.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0c280281.js",
+    "static/js/2.33e35ca9.chunk.js",
+    "static/css/main.5c5f53da.chunk.css",
+    "static/js/main.8ba071ef.chunk.js"
+  ]
+}
